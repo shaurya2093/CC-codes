@@ -1,0 +1,12 @@
+www.example.com
+example.com
+.com
+com
+www.example.org
+example.org
+.org
+org
+www.example.edu
+example.edu
+.edu
+edu
